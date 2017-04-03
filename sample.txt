@@ -1,2 +1,3 @@
 Hi this is Shikamaru!
 add: updated
+commit: luu trang thai cua index
